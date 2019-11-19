@@ -1,4 +1,4 @@
-What is meta-debian?
+tests
 ====================
 
 meta-debian is a set of recipes (metadata) for the poky build system, 
